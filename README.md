@@ -23,7 +23,8 @@ Built with speed, simplicity, and clean architecture. ✅
 
 ## 📸 Preview
 
-> _Live demo coming soon!_
+> _Live demo_
+ react-to-do-git-main-sumit-mathurs-projects.vercel.app
 
 <!-- You can add a screenshot below when ready -->
 <!-- ![App Screenshot](./screenshot.png) -->
