@@ -1,56 +1,58 @@
 # 🚀 ReactTO-DO
 
-A clean and modern **React + Vite** To-Do App to boost your productivity!  
-Built with speed, simplicity, and clean architecture. ✅
+A clean and modern **React + Vite** 🛠️ To-Do App designed to boost your productivity in style!  
+Built with **speed ⚡**, **simplicity 🧠**, and **clean architecture 🧼**.
 
----
-
-![React](https://img.shields.io/badge/React-2023-blue?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-%5E5.2.8-purple?style=flat-square&logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/github/views/Sumitmathur12/ReactTO-DO?label=👀%20Project%20Views&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=⭐%20Stars">
+  <img src="https://img.shields.io/github/forks/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=🍴%20Forks">
+  <img src="https://img.shields.io/github/license/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=📄%20License">
+</p>
 
 ---
 
 ## ✨ Features
 
-- 📝 Add, complete, and delete tasks
-- ⚡ Lightning-fast Vite dev server
-- 💡 React Functional Components
-- 🎯 Clear code structure & folder layout
-- 🧼 No Tailwind – easy to style with plain CSS
+- ✅ **Add**, **complete**, and **delete** tasks effortlessly  
+- ⚡ Powered by **Vite** – ultra-fast dev experience  
+- 🧠 Clean and modular **React Functional Components**  
+- 🧼 **No Tailwind or CSS frameworks** – easy to customize with plain CSS  
+- 📁 Clear folder structure and well-documented code
 
 ---
 
-## 📸 Preview
+## 📸 Live Preview
 
-> _Live demo_
- react-to-do-git-main-sumit-mathurs-projects.vercel.app
+🔗 **Live Demo**: [react-to-do.vercel.app](https://react-to-do-git-main-sumit-mathurs-projects.vercel.app)
 
-<!-- You can add a screenshot below when ready -->
+<!-- You can add a screenshot below -->
 <!-- ![App Screenshot](./screenshot.png) -->
 
 ---
 
 ## 🛠️ Tech Stack
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+| Technology | Description |
+|------------|-------------|
+| [React](https://reactjs.org/) | JavaScript library for building UIs |
+| [Vite](https://vitejs.dev/) | Lightning-fast frontend tooling |
+| [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Language used to build the app |
 
 ---
 
 ## 🚀 Getting Started
 
-To run this project locally:
+To run this project locally on your machine:
 
 ```bash
-# Clone the repo
+# 1️⃣ Clone the repository
 git clone https://github.com/Sumitmathur12/ReactTO-DO.git
 cd ReactTO-DO
 
-# Install dependencies
+# 2️⃣ Install dependencies
 npm install
 
-# Run the dev server
+# 3️⃣ Start the development server
 npm run dev
 
