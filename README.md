@@ -4,11 +4,11 @@ A clean and modern **React + Vite** 🛠️ To-Do App designed to boost your pro
 Built with **speed ⚡**, **simplicity 🧠**, and **clean architecture 🧼**.
 
 <p align="center">
-  <img src="https://img.shields.io/github/views/Sumitmathur12/ReactTO-DO?label=👀%20Project%20Views&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=⭐%20Stars">
-  <img src="https://img.shields.io/github/forks/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=🍴%20Forks">
-  <img src="https://img.shields.io/github/license/Sumitmathur12/ReactTO-DO?style=for-the-badge&label=📄%20License">
+  <img src="https://img.shields.io/github/stars/Sumitmathur12/ReactTO-DO?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Sumitmathur12/ReactTO-DO?style=for-the-badge" alt="Forks" />
+  <img src="https://img.shields.io/github/license/Sumitmathur12/ReactTO-DO?style=for-the-badge" alt="License" />
 </p>
+
 
 ---
 
@@ -27,7 +27,7 @@ Built with **speed ⚡**, **simplicity 🧠**, and **clean architecture 🧼**.
 🔗 **Live Demo**: [react-to-do.vercel.app](https://react-to-do-git-main-sumit-mathurs-projects.vercel.app)
 
 <!-- You can add a screenshot below -->
-<!-- ![App Screenshot](./screenshot.png) -->
+<!-- ![App Screenshot](https://raw.githubusercontent.com/Sumitmathur12/ReactTO-DO/main/screenshot.png) -->
 
 ---
 
@@ -43,7 +43,7 @@ Built with **speed ⚡**, **simplicity 🧠**, and **clean architecture 🧼**.
 
 ## 🚀 Getting Started
 
-To run this project locally on your machine:
+To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
